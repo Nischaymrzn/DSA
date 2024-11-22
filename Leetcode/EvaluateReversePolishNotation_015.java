@@ -74,8 +74,6 @@ public class EvaluateReversePolishNotation_015 {
     public static void main(String[] args) {
         EvaluateReversePolishNotation_015 n=new EvaluateReversePolishNotation_015();
         String[] input = new String[] {"2", "1", "+", "3", "*"};
-        System.out.println(n.evalRPN(input));
-        
-        
+        System.out.println(n.evalRPN(input));        
     }
 }
