@@ -3,7 +3,7 @@ package Leetcode;
 import java.util.ArrayList;
 import java.util.Stack;
 
-public class BasicCalculator_227 {
+public class BasicCalculatorII_227 {
     public int calculate(String s) {
         String[] expression = s.split("(?<=[-+*/])|(?=[-+*/])");
        
@@ -92,7 +92,7 @@ public class BasicCalculator_227 {
 
 
     public static void main(String[] args) {
-        BasicCalculator_227 b=new BasicCalculator_227();
+        BasicCalculatorII_227 b=new BasicCalculatorII_227();
         b.calculate("2+2 +2");
     }
     
