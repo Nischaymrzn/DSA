@@ -36,7 +36,5 @@ public class TwoSum_1 {
         int[] nums={1,2,3,4,5};
         int[] arr=s.twoSum(nums, 9);
         System.out.println(arr[0] + "," + arr[1]);
-    
-        
     }
 }
