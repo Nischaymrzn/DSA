@@ -52,7 +52,7 @@ public class ValidParenthesis_20 {
 
     public static void main(String[] args) {
         ValidParenthesis_20 v=new ValidParenthesis_20();
-        System.out.println(v.isValid_2("()({})"));
+        System.out.println(v.isValid_2("()({})  "));
     }   
 }
 
