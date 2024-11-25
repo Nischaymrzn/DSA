@@ -112,6 +112,7 @@ public class Linked_List {
         linked_list.addLast("first");
         
         for(int i=0;i<linked_list.size();i++){
+        
             System.out.print(linked_list.get(i)+"->");
         }
     }

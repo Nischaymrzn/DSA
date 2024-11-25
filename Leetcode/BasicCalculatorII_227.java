@@ -13,7 +13,7 @@ public class BasicCalculatorII_227 {
         
         // Infix to Postfix
         for (int i = 0; i < expression.length; i++) {
-            System.out.println(expression[i]);
+            
             String c = expression[i];
             if (c.equals("+") || c.equals("-") || c.equals("*") || c.equals("/")) {
                 if (stack.isEmpty()) {
@@ -93,7 +93,8 @@ public class BasicCalculatorII_227 {
 
     public static void main(String[] args) {
         BasicCalculatorII_227 b=new BasicCalculatorII_227();
-        b.calculate("2+2 +2");
+        System.out.println(b.calculate("2+2+2"));
+        
     }
     
 }
