@@ -1,4 +1,4 @@
-package DataStructures;
+package dataStructures;
 
 //stack implementation from scratch
 public class Stacks {

@@ -1,4 +1,4 @@
-package Leetcode;
+package leetcode;
 
 public class IndexOfTheFirstOccurrenceInAString {
     // public int strStr(String haystack, String needle) {

@@ -1,4 +1,4 @@
-package Algorithms;
+package algorithms;
 import java.util.*;
 
 public class QueueUsing2Stack {

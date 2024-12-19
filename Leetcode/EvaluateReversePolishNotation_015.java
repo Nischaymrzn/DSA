@@ -1,4 +1,4 @@
-package Leetcode;
+package leetcode;
 
 // 150. Evaluate Reverse Polish Notation
 

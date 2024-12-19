@@ -1,4 +1,4 @@
-package Algorithms;
+package algorithms;
 
 public class QueueUsingLinkedList {
     public class Node{

@@ -1,4 +1,4 @@
-package Leetcode;
+package leetcode;
 // Code
 // Testcase
 // Test Result

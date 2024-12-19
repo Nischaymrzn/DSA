@@ -1,4 +1,4 @@
-package DataStructures;
+package dataStructures;
 
 public class SinglyLL {
     Node head=null;

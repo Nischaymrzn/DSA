@@ -1,6 +1,6 @@
 
 //This file contains the source code on how Linked_List from Scrap, how does it's inbuilt method works.
-package DataStructures;
+package dataStructures;
 import java.util.LinkedList;
 
 public class Linked_List {
